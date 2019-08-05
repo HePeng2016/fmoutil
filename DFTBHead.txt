@@ -1,0 +1,10 @@
+ $GUESS
+   GUESS=HUCKEL
+ $end
+ $basis
+   gbasis=dftb
+ $end
+ $DFTB
+  SCC=.TRUE. DFTB3=.TRUE. DAMPXH=.TRUE. DAMPEX=4.00 NDFTB=3 PARAM=3OB31 DISP=UFF  
+ $END 
+
